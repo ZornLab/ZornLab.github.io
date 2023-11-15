@@ -1,4 +1,1 @@
-# Bioinformatics Guide
-
-
-[nf-core](tutorials/nfcore.md)
+[nf-core](Tutorials/nfcore.html)
