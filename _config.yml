@@ -2,6 +2,6 @@ remote_theme: jekyll/minima
 title: Bioinformatics Guide
 description: For CuSTOM and Developmental Biology
 header_pages:
-   - about.md
+   - about.html
 plugins:
   - jekyll-seo-tag
