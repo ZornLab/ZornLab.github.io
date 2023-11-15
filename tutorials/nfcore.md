@@ -1,3 +1,1 @@
-# nf-core
-
 Navigate to /data/CuSTOM-DB-NGS on the cluster
