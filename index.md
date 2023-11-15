@@ -1,1 +1,1 @@
-[nf-core](Tutorials/nfcore.html)
+[nf-core](tutorials/nfcore.html)

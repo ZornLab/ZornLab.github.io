@@ -1,7 +1,8 @@
 remote_theme: jekyll/minima
 title: Bioinformatics Guide
-description: For CuSTOM and Developmental Biology
+description: CCHMC - CuSTOM and Developmental Biology
 header_pages:
-   - about.html
+   - reviews/reviews.md
+   - tutorials/tutorials.md
 plugins:
   - jekyll-seo-tag
