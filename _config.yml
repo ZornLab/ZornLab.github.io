@@ -3,6 +3,6 @@ title: Bioinformatics Guide
 description: CuSTOM and Developmental Biology @ CCHMC
 header_pages:
    - reviews/reviews.md
-   - test.md
+   - tutorials.md
 plugins:
   - jekyll-seo-tag
