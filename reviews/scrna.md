@@ -8,5 +8,4 @@ title: scRNA analysis
 
 [Single-cell best practices](https://www.sc-best-practices.org/preamble.html)
 
-[!NOTE]
 Our focus will be on using the R package Seurat, but there are arguments for also exploring scanpy and Biocondcutor.
