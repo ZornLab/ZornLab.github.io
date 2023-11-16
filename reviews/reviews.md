@@ -2,4 +2,4 @@
 title: Reviews
 ---
 
-[scRNA](reviews/scrna.html)
+[scRNA](scrna.html)

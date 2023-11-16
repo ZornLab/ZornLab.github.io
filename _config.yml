@@ -6,4 +6,6 @@ header_pages:
    - reviews/reviews.md
    - tutorials/tutorials.md
 plugins:
-  - jekyll-seo-tag
+  - jekyll-seo-tag 
+minima:
+  skin: auto
